@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @kashao, you can call me Shao!
 
 - 👀 I’m interested in:
-* Pokémon
-* Python programming
-* Learning Japanese
+1. Pokémon
+2. Python programming
+3. Learning Japanese
 
 - 🌱 I’m currently learning:
-* Web development
-* Discord bot development
+1. Web development
+2. Discord bot development
 
 - 💞️ I’m looking to collaborate on:
-* Creating beginner-friendly website tutorials
-* Developing interesting projects with bots
+1. Creating beginner-friendly website tutorials
+2. Developing interesting projects with bots
 
 - 📫 How to reach me:
 You can reach me by sending a message to my GitHub account.
