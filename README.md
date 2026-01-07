@@ -1,32 +1,19 @@
-- 👋 Hi, I’m @kashao, you can call me Shao!
+## 中文版
+嗨，我是 Hsiao，也可以叫我 Shao！我喜歡寶可夢，平常也在學習日文。
 
-- 👀 I’m interested in:
-1. Pokémon
-2. Python programming
-3. Learning Japanese
+我對把想法做成可用的小工具很有熱情，像是用 Python 做些輕量的桌面小程式，或是嘗試把 Discord 與其他服務串起來，讓生活更方便也更有趣。
 
-- 🌱 I’m currently learning:
-1. Web development
-2. Discord bot development
+我也喜歡動手做小專案，享受在設計功能、整理流程、把需求變得更直覺的過程。
 
-- 💞️ I’m looking to collaborate on:
-1. Creating beginner-friendly website tutorials
-2. Developing interesting projects with bots
+希望能持續記錄自己的學習與創作，慢慢累積屬於自己的作品與故事。
 
-- 📫 How to reach me:
-You can reach me by sending a message to my GitHub account.
+---
 
-My story:
+## English Version
+Hi, I’m Hsiao—feel free to call me Shao! I love Pokémon and I’m currently learning Japanese.
 
-I always enjoy exploring and tinkering with various things. When I discovered web development, I thought it would be great to create simple and easy-to-understand website tutorials.
+I enjoy turning ideas into small, practical tools—whether it’s lightweight desktop apps with Python or fun integrations that connect Discord with other services.
 
-When I encountered bots on Discord, I wondered if I could develop my own bot to make my life more convenient and add some fun to it.
+Building side projects is something I really like, especially the process of shaping features and making things feel intuitive and useful.
 
-However, I do have a tendency to succumb to laziness. Either I spend too much time on a project or forget where I left off, haha!
-
-Nevertheless, I want to start documenting my experiences and hope that it will help me in my personal growth.
-
-<!---
-kashao/kashao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’d love to keep documenting my learning and creations, and slowly build up a collection of projects and stories of my own.
